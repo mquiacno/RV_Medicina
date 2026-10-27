@@ -49,4 +49,6 @@ Assets/
 ## Equipo
 
 - [@mquiacno](https://github.com/mquiacno) - Autor principal
+- [@carltofen1](https://github.com/carltofen1) - Autor principal
+- [@ALDREZZ2](https://github.com/ALDREZZ2) - Autor principal
 ```
