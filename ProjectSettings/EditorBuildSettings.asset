@@ -9,8 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuScene.unity
     guid: 8b86a094908b5804bb55b6be086fba4d
   - enabled: 1
+    path: Assets/Scenes/SeleccionCasos.unity
+    guid: c071fb8943aab0247b980a66eb1a41c0
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Caso1.unity
+    guid: 5a202cec937ab31449ac33858f97094f
+  - enabled: 1
+    path: Assets/Scenes/Caso2.unity
+    guid: e883c18d495a0e14284ad7ca147f2072
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
